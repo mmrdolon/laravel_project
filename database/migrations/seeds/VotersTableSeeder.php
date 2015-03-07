@@ -14,7 +14,7 @@ class VotersTableSeeder extends Seeder {
             ['id' => 2, 'name' => 'sajid',  'candidates_id' => 1, 'cast' => false,  'created_at' => new DateTime, 'updated_at' => new DateTime],
             ['id' => 3, 'name' => 'Tumpa', 'candidates_id' => 1, 'cast' => false,  'created_at' => new DateTime, 'updated_at' => new DateTime],
             ['id' => 4, 'name' => 'Baby',  'candidates_id' => 1, 'cast' => true,  'created_at' => new DateTime, 'updated_at' => new DateTime],
-            ['id' => 5, 'name' => 'Arif',  'candidates_id' => 1, 'cast' => true,  'created_at' => new DateTime, 'updated_at' => new DateTime]
+            ['id' => 5, 'name' => 'Arif',  'candidates_id' => 1, 'cast' => true,  'created_at' => new DateTime, 'updated_at' => new DateTime],
 
         );
 
